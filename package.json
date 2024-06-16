@@ -1,7 +1,7 @@
 {
   "name": "hello-arindam",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Arindam's Bio",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,8 @@
   },
   "keywords": [],
   "author": "Arindam Majumder",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "hello-arindam": "^1.0.0"
+  }
 }
